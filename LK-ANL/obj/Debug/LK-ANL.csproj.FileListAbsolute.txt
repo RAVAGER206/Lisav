@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\LK-ANL\bin\Debug\LK-ANL.exe.config
+C:\Users\admin\Desktop\LK-ANL\bin\Debug\LK-ANL.exe
+C:\Users\admin\Desktop\LK-ANL\bin\Debug\LK-ANL.pdb
+C:\Users\admin\Desktop\LK-ANL\obj\Debug\LK-ANL.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\LK-ANL\obj\Debug\LK-ANL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\LK-ANL\obj\Debug\LK-ANL.exe
+C:\Users\admin\Desktop\LK-ANL\obj\Debug\LK-ANL.pdb
