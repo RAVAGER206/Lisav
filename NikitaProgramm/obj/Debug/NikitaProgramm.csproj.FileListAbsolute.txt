@@ -1,7 +1,0 @@
-C:\Users\lisav\Desktop\NikitaProgramm\obj\Debug\NikitaProgramm.csproj.AssemblyReference.cache
-C:\Users\lisav\Desktop\NikitaProgramm\obj\Debug\NikitaProgramm.csproj.CoreCompileInputs.cache
-C:\Users\lisav\Desktop\NikitaProgramm\bin\Debug\NikitaProgramm.exe.config
-C:\Users\lisav\Desktop\NikitaProgramm\bin\Debug\NikitaProgramm.exe
-C:\Users\lisav\Desktop\NikitaProgramm\bin\Debug\NikitaProgramm.pdb
-C:\Users\lisav\Desktop\NikitaProgramm\obj\Debug\NikitaProgramm.exe
-C:\Users\lisav\Desktop\NikitaProgramm\obj\Debug\NikitaProgramm.pdb
